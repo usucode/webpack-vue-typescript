@@ -1,5 +1,15 @@
 # WebpackでVue.js(TypeScript, Pug, Stylus対応)を構築
 
+## Install
+
+```bash
+# 最小構成
+yarn add  webpack webpack-cli vue vue-loader vue-style-loader vue-template-compiler css-loader 
+
+# 追加
+yarn add -D webpack-dev-server @babel/core babel-loader stylus stylus-loader ts-loader typescript pug pug-plain-loader
+```
+
 ## 気をつける点
 
 1. `tsconfig.json`を追加
