@@ -7,7 +7,7 @@
     "@babel/core": "^7.4.5",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.0.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
